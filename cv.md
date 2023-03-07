@@ -31,7 +31,7 @@ ___
   - Programming courses:
       * JavaScript Basics course on the [CodeBasics](https://code-basics.com/)
       * HTML course on the [CodeBasics](https://code-basics.com/)
-      * JavaScript Front-end course on the [RS School](https://rs.school.com/) (in progress)
+      * JavaScript Front-end course on the [RS School](https://rs.school/) (in progress)
 
 ___
 ## Languages
