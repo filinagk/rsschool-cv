@@ -36,8 +36,10 @@ ___
 ___
 ## Languages
 
-- English - B1-B2  
-    * B1 Certificate 
-    * [EPAM](https://training.by/) English test - B2 
-- Italian - A2
-- Russian - Native                  
+| Language | Level   | Confirmation     |
+|:---------|:--------|------------------|
+| English  | B1-B2   | • B1 Certificate </br> • [EPAM](https://training.by/) English test - B2 </li> </ul>|
+| Italian  | A2      | Certificate      |
+| Russian  | Native  |                  |
+
+___
