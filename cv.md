@@ -24,7 +24,7 @@ ___
 ___
 ## Code example
 
-<details><summary><a href="https://www.codewars.com/kata/reviews/5b083ed93ad57d294e001a2b/groups/640a3e29aa7f8f00018b1c92">Sheep counter</a></summary>
+<details><summary><a href="https://www.codewars.com/kata/5b077ebdaf15be5c7f000077">Sheep counter</a></summary>
 <p>
 Given a non-negative integer, 3 for example, return a string with a murmur: "1 sheep...2 sheep...3 sheep...". Input will always be valid, i.e. no negative integers.
 
@@ -38,6 +38,31 @@ var countSheep = function (num) {
 
   return murmur;
 }
+```
+</p>
+</details>
+
+
+<details><summary><a href="https://www.codewars.com/kata/58649884a1659ed6cb000072">Traffic lights switch</a></summary>
+<p>
+
+You're writing code to control your town's traffic lights. You need a function to handle each change from green, to yellow, to red, and then to green again.
+
+Complete the function that takes a string as an argument representing the current state of the light and returns a string representing the state the light should change to.
+
+For example, when the input is green, output should be yellow.
+
+```
+function updateLight(current) {
+  switch (current) {
+      case 'green':
+      return 'yellow';
+      case 'yellow':
+      return 'red';
+      case 'red':
+      return 'green';
+  }
+};
 ```
 </p>
 </details>
