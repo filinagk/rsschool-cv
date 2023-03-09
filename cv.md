@@ -23,6 +23,25 @@ ___
 
 ___
 ## Code example
+
+<details><summary><a href="https://www.codewars.com/kata/reviews/5b083ed93ad57d294e001a2b/groups/640a3e29aa7f8f00018b1c92">Sheep counter</a></summary>
+<p>
+Given a non-negative integer, 3 for example, return a string with a murmur: "1 sheep...2 sheep...3 sheep...". Input will always be valid, i.e. no negative integers.
+
+```
+var countSheep = function (num) {
+  let murmur = '';
+  
+  for (let currentSheepNum = 1; currentSheepNum <= num; currentSheepNum++) {
+    murmur += currentSheepNum + ' sheep...';
+  }
+
+  return murmur;
+}
+```
+</p>
+</details>
+
 ___
 ## Experience
 ___
