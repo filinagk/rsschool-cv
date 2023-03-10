@@ -71,6 +71,13 @@ function updateLight(current) {
 
 ___
 ## Experience
+
+[RS School project 'CV#1. Markdown & Git"](https://github.com/filinagk/rsschool-cv/)
+
+Acquired skills:
+ - Git/GitHub
+ - Markdown
+ - HTML
 ___
 ## Education
   - Perm State University (philology)
