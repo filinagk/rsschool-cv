@@ -1,6 +1,10 @@
-# Filina Galina
-#### Junior Frontend Developer
+# Filina Galina 
+
+<img src="images/photo.png" alt="Photo" width="30%" height="auto">
+
+Junior Frontend Developer 
 ___
+
 ## Contact info
 - Phone: +995 598 12 84 31
 - E-mail: filinagk@gmail.com
