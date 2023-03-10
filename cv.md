@@ -11,9 +11,11 @@ ___
 ___
 ## Summary
 
-I started a career working as a graphic designer, also I use to work as a school teacher and operation/sales manager in language learning centre. Now I've desided to build a new career in IT field
+I started my career as a graphic designer, also I used to work as a school teacher and operation/sales manager in language learning centre. Now I've decided to build a new career in the IT field, because it has wide circle of opportunities for professional growing and self-development.
 
-I always enjoyed complicated and challenging tasks, witch makes me look deeply, pay attention to the detales, but also stay creative working on them. That is exacetly what I found in programming, when started to learn JavaScript syntax.
+I always enjoyed complicated and challenging tasks, which makes me look deeply, pay attention to the details, but also stay creative working on them. This is exactly what I found in programming, when had started learning JavaScript.
+
+I study a lot by attending courses and by myself as well, so I belive that my willing to learn, to grow professionaly and to try new things will help me to gain crucial programming skills and become proficient Frontend Developer.
  
 ___
 
