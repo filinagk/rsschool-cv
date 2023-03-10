@@ -1,6 +1,7 @@
 # Filina Galina <img src="images/photo.png" alt="Photo" width="80" height="80">
 
-Junior Frontend Developer 
+Junior Frontend Developer
+
 ___
 
 ## Contact info
@@ -8,7 +9,9 @@ ___
 - E-mail: filinagk@gmail.com
 - GitHub: [filinagk](https://github.com/filinagk)
 - LinkedIn: [Galina Filina](https://www.linkedin.com/in/galina-filina-65743b258/)
+
 ___
+
 ## Summary
 
 I started my career as a graphic designer, also I used to work as a school teacher and operation/sales manager in language learning centre. Now I've decided to build a new career in the IT field, because it has wide circle of opportunities for professional growing and self-development.
@@ -80,7 +83,9 @@ Acquired skills:
  - Git/GitHub
  - Markdown
  - HTML
+
 ___
+
 ## Education
   - Perm State University (philology)
   - Programming courses:
