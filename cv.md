@@ -1,6 +1,4 @@
-# Filina Galina 
-
-<img src="images/photo.png" alt="Photo" width="30%" height="auto">
+# Filina Galina <img src="images/photo.png" alt="Photo" width="80" height="80">
 
 Junior Frontend Developer 
 ___
