@@ -39,6 +39,44 @@
 
     <h2>Code example</h2>
 
+    <p>Given a non-negative integer, 3 for example, return a string with a murmur: "1 sheep...2 sheep...3 sheep...".
+        Input will always be valid, i.e. no negative integers.</p>
+    <code>
+        <pre>
+      var countSheep = function (num) {
+      let murmur = '';
+      
+      for (let currentSheepNum = 1; currentSheepNum &lt;= num; currentSheepNum++) { 
+        murmur +=currentSheepNum + ' sheep...'; 
+         }
+        return murmur; 
+        }
+        </pre>
+        </code>
+
+    <p>You're writing code to control your town's traffic lights. You need a function to handle each change from green,
+        to yellow, to red, and then to green again.</p>
+
+    <p>Complete the function that takes a string as an argument representing the current state of the light and returns
+        a string representing the state the light should change to.</p>
+
+    <p>For example, when the input is green, output should be yellow.</p>
+
+    <code>
+        <pre>
+        function updateLight(current) {
+          switch (current) {
+          case 'green':
+          return 'yellow';
+          case 'yellow':
+          return 'red';
+          case 'red':
+          return 'green';
+            }
+          };
+        </pre>
+    </code>
+
     <h2>Experience</h2>
     <a href="https://github.com/filinagk/rsschool-cv/">RS School project 'CV#1. Markdown & Git"</a>
     <h4>Acquired skills:</h4>
@@ -76,7 +114,8 @@
                 <td>English</td>
                 <td>B1-B2</td>
                 <td>B1 Certificate<br>
-                    <a href="https://training.by/#!/Home?lang=en&City=-10EPAM">EPAM</a> English test - B2</td>
+                    <a href="https://training.by/#!/Home?lang=en&City=-10EPAM">EPAM</a>&nbspEnglish test - B2
+                </td>
             </tr>
 
             <tr>
