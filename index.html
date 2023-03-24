@@ -4,16 +4,17 @@
 
 <head>
     <title>CV</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 
 <body>
     <main>
         <section>
             <h1>Galina Filina</h1>
-            <img src="images/photo.png" alt="Photo" width="150px" height="auto">
+            <img class="photo" src="images/photo.png" alt="Photo" width="150px" height="auto">
             <p>Junior Frontend developer</p>
 
-            <h2>Contact info</h2>
+            <h2 class="no-border">Contact info</h2>
             <ul>
                 <li>Phone: +995 598 12 84 31</li>
                 <li>E-mail: filinagk@gmail.com</li>
@@ -61,12 +62,13 @@
                 <p>Given a non-negative integer, 3 for example, return a string with a murmur: "1 sheep...2 sheep...3
                     sheep...".
                     Input will always be valid, i.e. no negative integers.</p>
-                <code>
+                <code class="code-example">
                     <pre>
 var countSheep = function (num) {
     let murmur = '';
 
-    for (let currentSheepNum = 1; currentSheepNum &lt;= num; currentSheepNum++) { 
+    for (let currentSheepNum = 1; currentSheepNum &lt;= num; 
+        currentSheepNum++) { 
         murmur +=currentSheepNum + ' sheep...'; 
     }
     return murmur; 
@@ -90,7 +92,7 @@ var countSheep = function (num) {
 
                 <p>For example, when the input is green, output should be yellow.</p>
 
-                <code>
+                <code class="code-example">
                     <pre>
 function updateLight(current) {
     switch (current) {
