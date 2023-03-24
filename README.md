@@ -1,1 +1,1 @@
-# rsschool-cv
+https://filinagk.github.io/rsschool-cv/
